@@ -23,10 +23,13 @@ Man soll auch Verschlüsselte Nachrichten, welche man erhalten hat, entschlüsse
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| 1    | Muss            | Funktional | Als User möchte ich, meinen Text, welcher ich geschrieben habe, verschlüsseln können.  |
+| 2    | Muss            | Funktional | Als User möchte ich entscheiden können, welche Verschlüsselungsmethode verwendet wird. |
+| 3    | Muss            | Funktional | Als User möchte ich entscheiden können, ob ich einen Test verschlüsseln oder entschlüsseln möchte. | 
+| 4    | Muss            | Funktional | Als User möchte ich, dass mein Text in der ausgewählten Verschlüsselungsmethode verschlüsselt wird.| 
+| 5    | Muss            | Funktional | Als User möchte ich, dass mein Text in der ausgewählten Verschlüsselungsmethode entschlüsselt wird. |
+| 6    | Muss            | Funktional | Als User möchte ich, dass mein Text verschlüsselt ausgegeben wird.|
+| 7    | Muss            | Funktional | Als USer möchte ich, dass mein Text entschlüsselt ausgegeben wird. |
 
 ### 1.3 Testfälle
 
