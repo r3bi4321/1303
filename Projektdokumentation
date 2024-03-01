@@ -10,6 +10,7 @@
 | 19.1.2024| 0.0.2   | Kapitel 2&3 bearbeitet, Realisieren begonnen.  |
 | 2.02.2024| 0.0.3   | Realisieren |
 |23.02-2024| 0.0.4   | Kapitel 5 bearbeitet und Portfolio geschrieben. | 
+| 1.03.2024| 0.0.5   | Überarbeitung Potfolio und Projektdokumentation| 
 
 ## 1 Informieren
 
@@ -24,13 +25,12 @@ Man soll auch Verschlüsselte Nachrichten, welche man erhalten hat, entschlüsse
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Muss            | Funktional | Als User möchte ich, meinen Text, welcher ich geschrieben habe, verschlüsseln können.  |
-| 2    | Muss            | Funktional | Als User möchte ich entscheiden können, welche Verschlüsselungsmethode verwendet wird. |
-| 3    | Muss            | Funktional | Als User möchte ich entscheiden können, ob ich einen Test verschlüsseln oder entschlüsseln möchte. | 
-| 4    | Muss            | Funktional | Als User möchte ich, dass mein Text in der ausgewählten Verschlüsselungsmethode verschlüsselt wird.| 
-| 5    | Muss            | Funktional | Als User möchte ich, dass mein Text in der ausgewählten Verschlüsselungsmethode entschlüsselt wird. |
-| 6    | Muss            | Funktional | Als User möchte ich, dass mein Text verschlüsselt ausgegeben wird.|
-| 7    | Muss            | Funktional | Als USer möchte ich, dass mein Text entschlüsselt ausgegeben wird. |
+| 1    | Muss            | Funktional | Als User möchte ich zwischen der Cäsar-Verschlüsselung und der Atbash-Verschlüsselung wählen können.| 
+| 2    | Muss            | Funktional | Als User möchte ich, meinen Text, welcher ich geschrieben habe, verschlüsseln können.  |
+| 3    | Muss            | Funktional | Als User möchte ich, dass mein Text mit der Cäsar-Verschlüsselt verschlüsselt wird.|
+| 4    | Muss            | Funktional | Als User möchte ich, dass der Verschlüsselte Text mir angezeigt wird. |
+| 5    | Muss            | Funktional | Als User möchte ich, dass mein Text mit der Atbash-Verschlüsselung verschlüsselt wird.| 
+
 
 ### 1.3 Testfälle
 
@@ -49,8 +49,12 @@ Man soll auch Verschlüsselte Nachrichten, welche man erhalten hat, entschlüsse
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 26.01.2024| Rebecca Willi | Wahleingabe Verschlüsselung entwickeln.| 10min|
+| 2.A  | 26.01.2024| Rebecca Willi | Eingabe für den Text entwickeln |10 min|
+| 3.A  | 2.02.2024 | Rebecca Willi | Funktion für das Verschlüsseln der Buchstaben programmiert.| 90min|
+| 3.B  | 2.02.2024 | Rebecca Willi | Funktion für das Verschlüsseln des Texts| 90min|
+| 4.A  | 2.02.2024 | Rebecca Willi | Ausgabe des Verschlüsselten Texts| 45min| 
+| 
 
 Total: 
 
